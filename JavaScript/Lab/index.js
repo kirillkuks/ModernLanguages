@@ -5,7 +5,7 @@ const fs = require('fs');
 const app = express();
 const port = 8000;
 
-const model = require('../LabJS/model.js');
+const model = require('../Lab/model.js');
 
 var file = 'data/books.txt';
 var idFile = 'data/id.id';
@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-    res.json({'message' : 'Welcome' });
+    res.send('Simple CRUD controller');
 });
 
 app.listen(port, () => {
@@ -54,10 +54,8 @@ app.post('/books', (req, res) => {
         if (err) {
             console.error(err);
         }
-        return;
+        return res.send('Book was successfully added');
     });
-
-    res.redirect('/');
 });
 
 app.get('/books', (req, res) => {

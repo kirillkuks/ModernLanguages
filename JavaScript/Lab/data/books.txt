@@ -1,20 +1,3 @@
-{"id":44,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":45,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":46,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":47,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":48,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":49,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":51,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":53,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":54,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":55,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":56,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":57,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":58,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":59,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":60,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":61,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":62,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":63,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":64,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
-{"id":65,"title":"Anna Karenina","author":"Leo Tolstoy","year":"1877"}
+{"id":1,"title":"War and Peace","author":"Leo Tolstoy","year":"1873"}
+{"id":2,"title":"Woe from Wit","author":"Alexander Griboyedov","year":"1825"}
+{"id":3,"title":"The Art of Computer Programming. Volume 1","author":"Donald Knuth","year":"1968"}
