@@ -115,7 +115,7 @@ app.put('/books/:id', (req, res) => {
         });
 
         res.send(`Book\'s node with id = ${req.params.id} was successfully updated`);
-    })
+    });
 });
 
 app.delete('/books/:id', (req, res) => {
